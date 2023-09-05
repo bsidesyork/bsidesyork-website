@@ -1,5 +1,5 @@
 ---
-title: "BSides York"
+title: Home
 description: "The official page of BSides York"
 ---
 
