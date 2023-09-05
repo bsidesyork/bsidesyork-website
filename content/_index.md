@@ -1,6 +1,6 @@
 ---
-title: "BSIDES York"
-description: "This is a demo of the Blowfish theme for Hugo."
+title: "BSides York"
+description: "The official page of BSides York"
 ---
 
 <h1> Coming 2024 </h1>

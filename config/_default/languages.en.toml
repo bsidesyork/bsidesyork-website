@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "BSIDES York"
+title = "BSides York"
 
 [params]
   displayName = "EN"
@@ -21,6 +21,6 @@ title = "BSIDES York"
    links = [
      { email = "mailto:info@bsidesyork.org" },
      { github = "https://github.com/bsidesyork/bsidesyork-website" },
-     { linkedin = "https://linkedin.com/in/username" },
+     { linkedin = "https://www.linkedin.com/in/melissa-gurney/" },
      { twitter = "https://twitter.com/bsidesyork" },
    ]
