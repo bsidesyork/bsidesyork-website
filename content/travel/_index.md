@@ -3,6 +3,7 @@ title: Getting here
 description: "The official page of BSides York"
 layout: simple  
 ---
+St.Olaves, part of St. Peters School
 
 {{< alert icon="edit" >}}
 Did you know St.Peters is the third oldest school in the world and was founded in AD627!
@@ -25,7 +26,7 @@ a fully-equipped lecture theatre, cafeteria and a few other large classrooms to 
 
 <h4>By car</h3>
 
-We have free parking on site at St.Peters for around 80 cars and we its strictly first-come, first-serve.  Enter the car park via Clifton road and follow the parking signs to the rear of the building.  There is a short, flat walk around the school green to St.Olaves (signposted). 
+We have free parking on site at St.Peters for around 80 cars and its strictly first-come, first-serve.  Enter the car park via Clifton road and follow the parking signs to the rear of the building.  There is a short, flat walk around the school green to St.Olaves (signposted). 
 
 If the car park is full when you arrive then there is an expensive car park on Bootham road, called Bootham Car Park.
 
@@ -57,5 +58,8 @@ If you have a friend, coerce them into driving and make it their problem!
 
 <h3>Is the venue accessible</h3>
 
-Mostly.  We are working with the school to ensure the majority of the conference is fully accessible, but unfortunately it's a very old building.  The 1st floor has no access via lift, but the main tracks, catering, kids track, and business hall will all be on the ground floor.
+Yes!  ...mostly.  We are working with the school to ensure the majority of the conference is fully accessible, but unfortunately it's a very old building.  
 
+The entire conference (main tracks, catering, kids track, and business hall) will take part on the ground floor, but there are some steps to enter and exit the building.  
+
+If you have access concerns, please let us know ahead of time or at the door and we'll work with the facilities staff to open an alternate entrance.
