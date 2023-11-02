@@ -21,6 +21,6 @@ title = "BSides York"
    links = [
      { email = "mailto:info@bsidesyork.org" },
      { github = "https://github.com/bsidesyork/bsidesyork-website" },
-     { linkedin = "https://www.linkedin.com/in/melissa-gurney/" },
+     { linkedin = "https://www.linkedin.com/company/bsidesyork/" },
      { twitter = "https://twitter.com/bsidesyork" },
    ]
